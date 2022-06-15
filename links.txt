@@ -1,0 +1,5 @@
+https://software-testing.ru/ - все о тестировании
+https://git-scm.com/book/ru/v2 - все о система контроля версий GIT
+https://sql-academy.org/ru/guide - SQL
+https://habr.com/ru/post/524784/ - идеи для тестов
+http://bugred.ru/ - словарь тестирования
